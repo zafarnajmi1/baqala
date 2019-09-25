@@ -1,0 +1,218 @@
+PODS:
+  - Alamofire (4.8.0)
+  - AlamofireImage (3.5.0):
+    - Alamofire (~> 4.8)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - CardIO (5.4.1)
+  - Closures (0.5)
+  - Cosmos (17.0.0)
+  - CountryPickerSwift (1.8.0)
+  - DLRadioButton (1.4.12)
+  - DropDown (2.3.12)
+  - FBSDKCoreKit (4.38.1):
+    - Bolts (~> 1.9)
+  - FBSDKLoginKit (4.38.1):
+    - FBSDKCoreKit
+  - GMStepper (2.2)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.7.0):
+    - GoogleMaps (= 2.7.0)
+    - GooglePlaces (= 2.7.0)
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - GoogleSignIn (4.4.0):
+    - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
+    - "GoogleToolboxForMac/NSString+URLArguments (~> 2.1)"
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.4):
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+  - GoogleToolboxForMac/Defines (2.1.4)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.1.4)":
+    - GoogleToolboxForMac/DebugUtils (= 2.1.4)
+    - GoogleToolboxForMac/Defines (= 2.1.4)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.1.4)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.1.4)"
+  - GradientLoadingBar (1.1.13):
+    - Observable (~> 1.4)
+  - GTMSessionFetcher/Core (1.2.1)
+  - HMSegmentedControl (1.5.5)
+  - InstagramLogin (1.3.0)
+  - IQKeyboardManagerSwift (6.2.0)
+  - Kingfisher (4.10.1)
+  - MBProgressHUD (1.1.0)
+  - MIBadgeButton-Swift (0.5)
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+  - ObjectMapper (3.4.1)
+  - Observable (1.4.0)
+  - PayPal-iOS-SDK (2.18.1):
+    - PayPal-iOS-SDK/CardIO (= 2.18.1)
+    - PayPal-iOS-SDK/Core (= 2.18.1)
+  - PayPal-iOS-SDK/CardIO (2.18.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - PullToRefreshKit (0.8.8)
+  - RangeSeekSlider (1.7.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - Segmentio (3.2)
+  - Socket.IO-Client-Swift (13.4.0):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.6)
+  - SwiftMessages (6.0.1):
+    - SwiftMessages/App (= 6.0.1)
+  - SwiftMessages/App (6.0.1)
+  - SwiftyJSON (4.2.0)
+  - THSegmentedPager (1.1.3):
+    - HMSegmentedControl (~> 1.5.2)
+  - TTRangeSlider (1.0.6)
+  - XLPagerTabStrip (8.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireObjectMapper (~> 5.2)
+  - Closures
+  - Cosmos (~> 17.0)
+  - CountryPickerSwift
+  - DLRadioButton
+  - DropDown
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - GMStepper
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - GoogleSignIn
+  - GradientLoadingBar (~> 1.0)
+  - InstagramLogin
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - MBProgressHUD
+  - MIBadgeButton-Swift (from `https://github.com/mustafaibrahim989/MIBadgeButton-Swift.git`, branch `master`)
+  - NVActivityIndicatorView
+  - PayPal-iOS-SDK
+  - PullToRefreshKit
+  - RangeSeekSlider
+  - SDWebImage
+  - Segmentio (~> 3.2)
+  - Socket.IO-Client-Swift
+  - SwiftMessages
+  - SwiftyJSON
+  - THSegmentedPager
+  - TTRangeSlider
+  - XLPagerTabStrip (~> 8.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - Bolts
+    - CardIO
+    - Closures
+    - Cosmos
+    - CountryPickerSwift
+    - DLRadioButton
+    - DropDown
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - GMStepper
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - GoogleSignIn
+    - GoogleToolboxForMac
+    - GradientLoadingBar
+    - GTMSessionFetcher
+    - HMSegmentedControl
+    - InstagramLogin
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MBProgressHUD
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - Observable
+    - PayPal-iOS-SDK
+    - PullToRefreshKit
+    - RangeSeekSlider
+    - SDWebImage
+    - Segmentio
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftMessages
+    - SwiftyJSON
+    - THSegmentedPager
+    - TTRangeSlider
+    - XLPagerTabStrip
+
+EXTERNAL SOURCES:
+  MIBadgeButton-Swift:
+    :branch: master
+    :git: https://github.com/mustafaibrahim989/MIBadgeButton-Swift.git
+
+CHECKOUT OPTIONS:
+  MIBadgeButton-Swift:
+    :commit: 3c2638d2e6e46ec2e6dd978d8ada8863df3df5e6
+    :git: https://github.com/mustafaibrahim989/MIBadgeButton-Swift.git
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  Closures: ad5ebce1242de44d64505bfd3b7c25b12cad3d2e
+  Cosmos: 309e489f21ffc91a1eeecfebef7f817cd2fcfba6
+  CountryPickerSwift: 4c328ae9687322cacf541120f5c43f0e2c1ba194
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  DropDown: 0bcc278799ec11a3d34ce1aac9367fbbaf5423d9
+  FBSDKCoreKit: 8d47857400e2f5bdea697a80daff882e91c84ef6
+  FBSDKLoginKit: 4621c690d9dd8628031a4791497062183ea34b0d
+  GMStepper: 89fb106944dfcc3aa3add7164e3ebd463ea2104b
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlacePicker: 59ea44db173c58486ad6123993e81feefcbce9c3
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  GoogleSignIn: 7ff245e1a7b26d379099d3243a562f5747e23d39
+  GoogleToolboxForMac: 91c824d21e85b31c2aae9bb011c5027c9b4e738f
+  GradientLoadingBar: a5667caa6abeb5b14188fcc94a21a616a593e9a3
+  GTMSessionFetcher: 32aeca0aa144acea523e1c8e053089dec2cb98ca
+  HMSegmentedControl: f514c6dad47aa3065e0ed2e8046b73efc71221b9
+  InstagramLogin: 55a3ab7aa6ee3f75bf06fdec1bb8f1e01e2c0b00
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MIBadgeButton-Swift: 9e57309b00b168d75ca8fecb45bc75124a8ffddf
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+  Observable: 4b2ee25de74d007d57acdff801925e39f9613544
+  PayPal-iOS-SDK: 10654cd111e911a9807bddb96fae81aacb8e9915
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+  RangeSeekSlider: 0386c5a9aa5ebcb2fa5238e8a627280cf46c7c0a
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  Segmentio: 4e63f9f7c22a58fba9e589e50f8803fd0a1b18c3
+  Socket.IO-Client-Swift: 2b2720f14c92ff1237ced09bc2f2da2022624fee
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  SwiftMessages: 42ed7b6e1f2f1ead9ee667dc61a0ae87e4f49570
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  THSegmentedPager: 9d4fb2acc78d77246caf1e71d2e878bf5977b904
+  TTRangeSlider: 78188bea83f6471a06f75adbc88da5e990baeafe
+  XLPagerTabStrip: 22d4c58200d7c105e0e407ab6bfd01a5d85014be
+
+PODFILE CHECKSUM: be3a8ec1d7540c9ebbd1f40b740815f31408d4ab
+
+COCOAPODS: 1.5.3

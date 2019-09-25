@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Store Name"; ObjectID = "6dj-uV-TKj"; */
+"6dj-uV-TKj.text" = "Store Name";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "6kS-Vp-AOH"; */
+"6kS-Vp-AOH.text" = "Description";
+
+/* Class = "UILabel"; text = "distance"; ObjectID = "FGj-wb-JjT"; */
+"FGj-wb-JjT.text" = "distance";
+
+/* Class = "UILabel"; text = "-- (-- Reviews)"; ObjectID = "Rcm-UP-7hi"; */
+"Rcm-UP-7hi.text" = "-- (-- Reviews)";
+
+/* Class = "UILabel"; text = "Lorem ipsum door sit amet, consectetur "; ObjectID = "dQp-bx-LEv"; */
+"dQp-bx-LEv.text" = "Lorem ipsum door sit amet, consectetur ";
+
+/* Class = "UILabel"; text = "address"; ObjectID = "glQ-8F-T8g"; */
+"glQ-8F-T8g.text" = "address";

@@ -1,0 +1,663 @@
+
+/* Class = "UILabel"; text = "Hypermarket shope 12-B Al Ain UAE"; ObjectID = "01z-er-GuR"; */
+"01z-er-GuR.text" = "Hypermarket shope 12-B Al Ain UAE";
+
+/* Class = "UILabel"; text = "Store Name :"; ObjectID = "07d-eQ-yFA"; */
+"07d-eQ-yFA.text" = "Store Name :";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "08a-y5-ixg"; */
+"08a-y5-ixg.placeholder" = "First Name";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "0fJ-q1-M5Y"; */
+"0fJ-q1-M5Y.placeholder" = "First Name";
+
+/* Class = "UITextView"; text = "Enter text here..."; ObjectID = "0jZ-7s-J8Q"; */
+"0jZ-7s-J8Q.text" = "Enter text here";
+
+/* Class = "UILabel"; text = "Sub Categories"; ObjectID = "0st-n8-Xg1"; */
+"0st-n8-Xg1.text" = "Sub Categories";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "1DK-Zy-fzV"; */
+"1DK-Zy-fzV.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "1Sk-St-U41"; */
+"1Sk-St-U41.placeholder" = "Enter Your Email";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "1eg-cC-7y1"; */
+"1eg-cC-7y1.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "ShekMuhammad "; ObjectID = "1gW-1c-s9z"; */
+"1gW-1c-s9z.text" = "ShekMuhammad ";
+
+/* Class = "UILabel"; text = "Save this language"; ObjectID = "1nw-kL-Ede"; */
+"1nw-kL-Ede.text" = "Save this language";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "35a-zV-Fv7"; */
+"35a-zV-Fv7.text" = "Already have an account?";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "3Ap-Lw-Fvf"; */
+"3Ap-Lw-Fvf.text" = "Male";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "3Mu-MD-ef8"; */
+"3Mu-MD-ef8.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "3Ub-Th-Zun"; */
+"3Ub-Th-Zun.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Baqala"; ObjectID = "3ep-tQ-h9G"; */
+"3ep-tQ-h9G.text" = "Baqala";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "3gB-67-71X"; */
+"3gB-67-71X.text" = "Gender";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "4eB-yx-1ef"; */
+"4eB-yx-1ef.placeholder" = "Address";
+
+/* Class = "UITextField"; placeholder = "Store Name ar"; ObjectID = "5Ag-sK-ng4"; */
+"5Ag-sK-ng4.placeholder" = "Store Name ar";
+
+/* Class = "UILabel"; text = "seef Al, Ain, Dubai"; ObjectID = "69h-dj-2TC"; */
+"69h-dj-2TC.text" = "seef Al, Ain, Dubai";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "6RI-xG-2Ve"; */
+"6RI-xG-2Ve.normalTitle" = "Female";
+
+/* Class = "UILabel"; text = "Name :"; ObjectID = "6ne-Pz-QVe"; */
+"6ne-Pz-QVe.text" = "Name :";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "6so-lK-fhK"; */
+"6so-lK-fhK.normalTitle" = "Female";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "77n-Qe-XSL"; */
+"77n-Qe-XSL.text" = "Already have an account?";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "7s1-PF-3Kz"; */
+"7s1-PF-3Kz.placeholder" = "Address";
+
+/* Class = "UILabel"; text = "AED 2.0"; ObjectID = "7sT-bl-hIZ"; */
+"7sT-bl-hIZ.text" = "AED 2.0";
+
+/* Class = "UISegmentedControl"; 8Aw-Iv-TyK.segmentTitles[0] = "Buyer"; ObjectID = "8Aw-Iv-TyK"; */
+"8Aw-Iv-TyK.segmentTitles[0]" = "Buyer";
+
+/* Class = "UISegmentedControl"; 8Aw-Iv-TyK.segmentTitles[1] = "Seller"; ObjectID = "8Aw-Iv-TyK"; */
+"8Aw-Iv-TyK.segmentTitles[1]" = "Seller";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "8CI-IJ-cij"; */
+"8CI-IJ-cij.placeholder" = "Phone Number";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "8HB-pg-26H"; */
+"8HB-pg-26H.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Continue Login With Instagram"; ObjectID = "8yo-Ve-Vkl"; */
+"8yo-Ve-Vkl.text" = "Continue Login With Instagram";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "90Y-Uh-l2t"; */
+"90Y-Uh-l2t.text" = "Don't have an account?";
+
+/* Class = "UILabel"; text = "Old Password"; ObjectID = "9AW-af-ILi"; */
+"9AW-af-ILi.text" = "Old Password";
+
+/* Class = "UILabel"; text = "Change"; ObjectID = "9VS-wg-VOy"; */
+"9VS-wg-VOy.text" = "Change";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "9ev-vN-3tc"; */
+"9ev-vN-3tc.placeholder" = "Phone Number";
+
+/* Class = "UIButton"; normalTitle = "Resend"; ObjectID = "9wb-It-XpS"; */
+"9wb-It-XpS.normalTitle" = "Resend";
+
+/* Class = "UITextField"; placeholder = "Passsword"; ObjectID = "AOS-h5-Cf7"; */
+"AOS-h5-Cf7.placeholder" = "Passsword";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "ATf-aW-JH9"; */
+"ATf-aW-JH9.placeholder" = "Enter Your Email";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "AXp-LI-u0c"; */
+"AXp-LI-u0c.placeholder" = "Address";
+
+/* Class = "UITextField"; placeholder = "Search your Product"; ObjectID = "Aaf-4b-t4T"; */
+"Aaf-4b-t4T.placeholder" = "Search your Product";
+
+/* Class = "UIButton"; normalTitle = "Buyer"; ObjectID = "B21-7k-3JE"; */
+"B21-7k-3JE.normalTitle" = "Buyer";
+
+/* Class = "UILabel"; text = "Phone no :"; ObjectID = "BBy-u7-eDQ"; */
+"BBy-u7-eDQ.text" = "Phone no :";
+
+/* Class = "UILabel"; text = "AED 2.0"; ObjectID = "BDM-iu-U2G"; */
+"BDM-iu-U2G.text" = "AED 2.0";
+
+/* Class = "UILabel"; text = "Store@gmail.com"; ObjectID = "BW5-dB-63w"; */
+"BW5-dB-63w.text" = "Store@gmail.com";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "BkJ-vD-LUu"; */
+"BkJ-vD-LUu.normalTitle" = "Forgot Password?";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "BmA-W5-DrZ"; */
+"BmA-W5-DrZ.placeholder" = "Enter Your Email";
+
+/* Class = "UILabel"; text = "Change Language"; ObjectID = "C2L-t6-fAt"; */
+"C2L-t6-fAt.text" = "Change Language";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "CPb-2S-x99"; */
+"CPb-2S-x99.normalTitle" = "Female";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "CXu-EM-RFf"; */
+"CXu-EM-RFf.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "Search Keyword"; ObjectID = "DhY-cb-nEB"; */
+"DhY-cb-nEB.text" = "Search Keyword";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "DmT-wn-UNA"; */
+"DmT-wn-UNA.text" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "Search your Product"; ObjectID = "EOJ-vc-ZsW"; */
+"EOJ-vc-ZsW.placeholder" = "Search your Product";
+
+/* Class = "UITextField"; placeholder = "Code"; ObjectID = "EUm-LH-TC2"; */
+"EUm-LH-TC2.placeholder" = "Code";
+
+/* Class = "UITextField"; placeholder = "Enter Verification Code"; ObjectID = "EVH-wE-hrP"; */
+"EVH-wE-hrP.placeholder" = "Enter Verification Code";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "EWO-Fd-Blt"; */
+"EWO-Fd-Blt.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Shekhmuhammad@gmail.com"; ObjectID = "EsD-UQ-sJg"; */
+"EsD-UQ-sJg.text" = "Shekhmuhammad@gmail.com";
+
+/* Class = "UILabel"; text = "12 seconds ago"; ObjectID = "G3T-1F-qYR"; */
+"G3T-1F-qYR.text" = "12 seconds ago";
+
+/* Class = "UITextField"; placeholder = "Search Keyword"; ObjectID = "G7O-qi-ocL"; */
+"G7O-qi-ocL.placeholder" = "Search Keyword";
+
+/* Class = "UILabel"; text = "Continue Login With  Google"; ObjectID = "GQC-sG-U19"; */
+"GQC-sG-U19.text" = "Continue Login With  Google";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "H5y-Ec-eIp"; */
+"H5y-Ec-eIp.normalTitle" = "Male";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "HdW-iz-eTm"; */
+"HdW-iz-eTm.placeholder" = "Address";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "Hhx-Zg-4ca"; */
+"Hhx-Zg-4ca.placeholder" = "Enter Your Email";
+
+/* Class = "UITabBarItem"; title = "Store"; ObjectID = "Hxg-Zm-dUK"; */
+"Hxg-Zm-dUK.title" = "Store";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "I2H-ln-IE1"; */
+"I2H-ln-IE1.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "I2S-TS-yYg"; */
+"I2S-TS-yYg.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "I8d-sx-tpc"; */
+"I8d-sx-tpc.text" = "Privacy Policy";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "IB6-Po-OV1"; */
+"IB6-Po-OV1.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "+092345678123"; ObjectID = "IZQ-05-dLF"; */
+"IZQ-05-dLF.placeholder" = "+092345678123";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "JhI-7W-6Mx"; */
+"JhI-7W-6Mx.placeholder" = "Address";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "K3x-VQ-5u8"; */
+"K3x-VQ-5u8.placeholder" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "K8G-27-9r4"; */
+"K8G-27-9r4.placeholder" = "Phone Number";
+
+/* Class = "UIButton"; normalTitle = "Recover"; ObjectID = "KHH-lf-kBi"; */
+"KHH-lf-kBi.normalTitle" = "Recover";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "KSr-pq-Dt9"; */
+"KSr-pq-Dt9.text" = "First Name";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "KoZ-KP-AuG"; */
+"KoZ-KP-AuG.text" = "Email Address";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "LGZ-yg-nbN"; */
+"LGZ-yg-nbN.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "specifying a fixed space and pin them from yourspecifying a fixed space and pin them from your UIView top to the "; ObjectID = "LXt-1w-IIc"; */
+"LXt-1w-IIc.text" = "specifying a fixed space and pin them from yourspecifying a fixed space and pin them from your UIView top to the ";
+
+/* Class = "UILabel"; text = "In stock:"; ObjectID = "LeD-7u-8SU"; */
+"LeD-7u-8SU.text" = "In stock:";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "Lgr-sY-4gp"; */
+"Lgr-sY-4gp.text" = "OR";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "Lx1-xj-VJW"; */
+"Lx1-xj-VJW.text" = "Already have an account?";
+
+/* Class = "UILabel"; text = "info@baqala.com"; ObjectID = "MjG-ZL-xyk"; */
+"MjG-ZL-xyk.text" = "info@baqala.com";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "MqM-vJ-xIi"; */
+"MqM-vJ-xIi.placeholder" = "First Name";
+
+/* Class = "UITabBarItem"; title = "Categories"; ObjectID = "NdF-v2-e15"; */
+"NdF-v2-e15.title" = "Categories";
+
+/* Class = "UILabel"; text = "Description (Arabic):"; ObjectID = "Nqh-Cy-P76"; */
+"Nqh-Cy-P76.text" = "Description (Arabic):";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "O0l-L3-Thu"; */
+"O0l-L3-Thu.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "O3K-7G-R2y"; */
+"O3K-7G-R2y.normalTitle" = "Male";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "OBX-eT-z4d"; */
+"OBX-eT-z4d.normalTitle" = "Male";
+
+/* Class = "UITextField"; placeholder = "Enter id"; ObjectID = "OIv-Oi-t4i"; */
+"OIv-Oi-t4i.placeholder" = "Enter id";
+
+/* Class = "UITabBarItem"; title = "Menu"; ObjectID = "OQO-YO-aWc"; */
+"OQO-YO-aWc.title" = "Menu";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "OV8-2o-f0C"; */
+"OV8-2o-f0C.text" = "Already have an account?";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "OhR-I1-MZ3"; */
+"OhR-I1-MZ3.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Select Gender"; ObjectID = "Pyt-yz-Oqf"; */
+"Pyt-yz-Oqf.text" = "Select Gender";
+
+/* Class = "UILabel"; text = "ShekMuhammad@gmail.com "; ObjectID = "QxJ-Gr-yCT"; */
+"QxJ-Gr-yCT.text" = "ShekMuhammad@gmail.com ";
+
+/* Class = "UILabel"; text = "4 min ago"; ObjectID = "R4s-h3-Nrb"; */
+"R4s-h3-Nrb.text" = "4 min ago";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "RNm-iC-dsu"; */
+"RNm-iC-dsu.placeholder" = "Email Address";
+
+/* Class = "UIButton"; normalTitle = "AED"; ObjectID = "RUl-hB-wUP"; */
+"RUl-hB-wUP.normalTitle" = "AED";
+
+/* Class = "UITabBarItem"; title = "Store"; ObjectID = "ReZ-zW-cph"; */
+"ReZ-zW-cph.title" = "Store";
+
+/* Class = "UITextField"; placeholder = "Search Keyword"; ObjectID = "RiG-bU-T8x"; */
+"RiG-bU-T8x.placeholder" = "Search Keyword";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "Ris-1g-bAl"; */
+"Ris-1g-bAl.text" = "Language";
+
+/* Class = "UISegmentedControl"; S6h-Om-5fX.segmentTitles[0] = "Buyer"; ObjectID = "S6h-Om-5fX"; */
+"S6h-Om-5fX.segmentTitles[0]" = "Buyer";
+
+/* Class = "UISegmentedControl"; S6h-Om-5fX.segmentTitles[1] = "Seller"; ObjectID = "S6h-Om-5fX"; */
+"S6h-Om-5fX.segmentTitles[1]" = "Seller";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "SCE-z5-TdM"; */
+"SCE-z5-TdM.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "Continue As Guest"; ObjectID = "SSw-mJ-jS6"; */
+"SSw-mJ-jS6.normalTitle" = "Continue As Guest";
+
+/* Class = "UITextField"; placeholder = "Your Location"; ObjectID = "SVc-Am-n5I"; */
+"SVc-Am-n5I.placeholder" = "Your Location";
+
+/* Class = "UILabel"; text = "A verification code is sent to your email, please check your email and enter the verification code  below."; ObjectID = "St4-jF-Xr0"; */
+"St4-jF-Xr0.text" = "A verification code is sent to your email, please check your email and enter the verification code  below.";
+
+/* Class = "UILabel"; text = "ShekMuhammad  ar"; ObjectID = "Ttz-qw-Idp"; */
+"Ttz-qw-Idp.text" = "ShekMuhammad  ar";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "U0x-zn-xGs"; */
+"U0x-zn-xGs.normalTitle" = "Update";
+
+/* Class = "UILabel"; text = "Gender :"; ObjectID = "U7m-25-YX6"; */
+"U7m-25-YX6.text" = "Gender :";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "UAV-CP-mdx"; */
+"UAV-CP-mdx.placeholder" = "Phone Number";
+
+/* Class = "UIButton"; normalTitle = "Seller"; ObjectID = "UI9-Hl-STl"; */
+"UI9-Hl-STl.normalTitle" = "Seller";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "UIx-Hg-oWm"; */
+"UIx-Hg-oWm.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "UVs-7O-spi"; */
+"UVs-7O-spi.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Seef Mall Al Ain UAE, Dibai,"; ObjectID = "UXf-d5-e2e"; */
+"UXf-d5-e2e.text" = "Seef Mall Al Ain UAE, Dibai,";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Ukj-Ap-8QA"; */
+"Ukj-Ap-8QA.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Your Comments"; ObjectID = "UxC-US-Sn8"; */
+"UxC-US-Sn8.text" = "Your Comments";
+
+/* Class = "UILabel"; text = "Baqala Terms $ Conditions"; ObjectID = "VV6-u0-Gbw"; */
+"VV6-u0-Gbw.text" = "Baqala Terms $ Conditions";
+
+/* Class = "UILabel"; text = "Description (English):"; ObjectID = "WPM-5j-2np"; */
+"WPM-5j-2np.text" = "Description (English):";
+
+/* Class = "UILabel"; text = "Enter  your new password and then confirm it to change your account password"; ObjectID = "WYL-Tm-fEb"; */
+"WYL-Tm-fEb.text" = "Enter  your new password and then confirm it to change your account password";
+
+/* Class = "UILabel"; text = "per Liter"; ObjectID = "Wj0-GG-gnD"; */
+"Wj0-GG-gnD.text" = "per Liter";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "X5J-DC-Fft"; */
+"X5J-DC-Fft.text" = "Profile";
+
+/* Class = "UILabel"; text = "Apple Juice  250ml"; ObjectID = "XQl-Ej-6qm"; */
+"XQl-Ej-6qm.text" = "Apple Juice  250ml";
+
+/* Class = "UILabel"; text = "+9234567890"; ObjectID = "XWc-bN-ZaZ"; */
+"XWc-bN-ZaZ.text" = "+9234567890";
+
+/* Class = "UILabel"; text = "0.5 Km"; ObjectID = "XZb-Ol-Zz9"; */
+"XZb-Ol-Zz9.text" = "0.5 Km";
+
+/* Class = "UILabel"; text = "Suppermarket"; ObjectID = "Xpg-FR-YZS"; */
+"Xpg-FR-YZS.text" = "Suppermarket";
+
+/* Class = "UILabel"; text = "pakistan pakistan"; ObjectID = "YTZ-O6-b4s"; */
+"YTZ-O6-b4s.text" = "pakistan pakistan";
+
+/* Class = "UILabel"; text = "Set New Password"; ObjectID = "YTu-14-fH3"; */
+"YTu-14-fH3.text" = "Set New Password";
+
+/* Class = "UILabel"; text = "12 seconds ago"; ObjectID = "Yg2-Bu-DHB"; */
+"Yg2-Bu-DHB.text" = "12 seconds ago";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Ygq-gU-PFh"; */
+"Ygq-gU-PFh.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "Confirm Passsword"; ObjectID = "Yl2-mp-L4Q"; */
+"Yl2-mp-L4Q.placeholder" = "Confirm Passsword";
+
+/* Class = "UITextView"; text = "Description"; ObjectID = "Ysa-Wc-u0j"; */
+"Ysa-Wc-u0j.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Yz2-yv-tRz"; */
+"Yz2-yv-tRz.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "4.0(112 Reviews)"; ObjectID = "Z9e-L4-Zmy"; */
+"Z9e-L4-Zmy.text" = "4.0(112 Reviews)";
+
+/* Class = "UIButton"; normalTitle = "USD"; ObjectID = "Zbd-67-rAb"; */
+"Zbd-67-rAb.normalTitle" = "USD";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "aWz-fU-4Jn"; */
+"aWz-fU-4Jn.text" = "Select Language";
+
+/* Class = "UILabel"; text = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will t here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a searct here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a searct here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a searc"; ObjectID = "aor-s0-mnw"; */
+"aor-s0-mnw.text" = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will t here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a searct here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a searct here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a searc";
+
+/* Class = "UITextField"; placeholder = "Search Keyword"; ObjectID = "bKA-bg-L3S"; */
+"bKA-bg-L3S.placeholder" = "Search Keyword";
+
+/* Class = "UILabel"; text = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).MoveOnPrivacyPolicy()MoveOnPrivacyPolicy()Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."; ObjectID = "bTw-Dq-e7b"; */
+"bTw-Dq-e7b.text" = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).MoveOnPrivacyPolicy()MoveOnPrivacyPolicy()Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).";
+
+/* Class = "UILabel"; text = "Address :"; ObjectID = "bjQ-y8-a4q"; */
+"bjQ-y8-a4q.text" = "Address :";
+
+/* Class = "UITextField"; placeholder = "Emial Address"; ObjectID = "c4P-jd-oRM"; */
+"c4P-jd-oRM.placeholder" = "Emial Address";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "cBZ-mN-PRi"; */
+"cBZ-mN-PRi.placeholder" = "Enter Your Email";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "cNf-Lr-qjh"; */
+"cNf-Lr-qjh.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cSs-wS-aYR"; */
+"cSs-wS-aYR.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Write message..."; ObjectID = "coD-wQ-PCF"; */
+"coD-wQ-PCF.placeholder" = "Write message...";
+
+/* Class = "UILabel"; text = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to "; ObjectID = "csp-tA-p2i"; */
+"csp-tA-p2i.text" = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to ";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "cvL-DB-he6"; */
+"cvL-DB-he6.placeholder" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "Store Name"; ObjectID = "d3l-F2-vIS"; */
+"d3l-F2-vIS.placeholder" = "Store Name";
+
+/* Class = "UILabel"; text = "+972342345678"; ObjectID = "dAL-2z-3h5"; */
+"dAL-2z-3h5.text" = "+972342345678";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "dIt-Qe-zM0"; */
+"dIt-Qe-zM0.placeholder" = "New Password";
+
+/* Class = "UITextField"; placeholder = "Store Name"; ObjectID = "dNG-lh-0nK"; */
+"dNG-lh-0nK.placeholder" = "Store Name";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "dT4-cM-1bu"; */
+"dT4-cM-1bu.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "dzI-ef-Fkl"; */
+"dzI-ef-Fkl.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Ander Smith"; ObjectID = "eUN-Xp-UKg"; */
+"eUN-Xp-UKg.text" = "Ander Smith";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "ejV-zZ-Aag"; */
+"ejV-zZ-Aag.normalTitle" = "Male";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "fGK-Dz-3yJ"; */
+"fGK-Dz-3yJ.placeholder" = "Current Password";
+
+/* Class = "UILabel"; text = "4 min ago"; ObjectID = "fKG-Wu-eFd"; */
+"fKG-Wu-eFd.text" = "4 min ago";
+
+/* Class = "UILabel"; text = "Save your payemnt profile"; ObjectID = "fVK-eP-RVl"; */
+"fVK-eP-RVl.text" = "Save your payemnt profile";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "fjg-uf-J2H"; */
+"fjg-uf-J2H.text" = "Currency";
+
+/* Class = "UILabel"; text = "Client Id"; ObjectID = "fo2-q6-LcC"; */
+"fo2-q6-LcC.text" = "Client Id";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "g3u-jw-E72"; */
+"g3u-jw-E72.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Select Gender"; ObjectID = "gKv-5t-B46"; */
+"gKv-5t-B46.text" = "Select Gender";
+
+/* Class = "UILabel"; text = "Account Title"; ObjectID = "gWW-Py-0J7"; */
+"gWW-Py-0J7.text" = "Account Title";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem"; ObjectID = "gfJ-fl-c8l"; */
+"gfJ-fl-c8l.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem";
+
+/* Class = "UITextField"; placeholder = "Store Name"; ObjectID = "hJx-XU-8zU"; */
+"hJx-XU-8zU.placeholder" = "Store Name";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "hMp-ld-TaT"; */
+"hMp-ld-TaT.text" = "22";
+
+/* Class = "UILabel"; text = "+9712345673434"; ObjectID = "hbr-bS-AMQ"; */
+"hbr-bS-AMQ.text" = "+9712345673434";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "hmb-fV-f9W"; */
+"hmb-fV-f9W.normalTitle" = "Female";
+
+/* Class = "UILabel"; text = "Duis aute irrure voluptate velit esse cilum"; ObjectID = "hrF-rM-HHw"; */
+"hrF-rM-HHw.text" = "Duis aute irrure voluptate velit esse cilum";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "i0u-dM-rVD"; */
+"i0u-dM-rVD.text" = "Change Password";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "i2w-im-xqC"; */
+"i2w-im-xqC.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "iAy-AS-GXE"; */
+"iAy-AS-GXE.normalTitle" = "Update";
+
+/* Class = "UILabel"; text = "Phone No:"; ObjectID = "ihT-gi-ms7"; */
+"ihT-gi-ms7.text" = "Phone No:";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "io4-iT-69e"; */
+"io4-iT-69e.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Email :"; ObjectID = "iwb-Qo-SQd"; */
+"iwb-Qo-SQd.text" = "Email :";
+
+/* Class = "UITextField"; placeholder = "Search Keyword"; ObjectID = "izs-yk-XuN"; */
+"izs-yk-XuN.placeholder" = "Search Keyword";
+
+/* Class = "UILabel"; text = "Continue With Facebook"; ObjectID = "jGw-Db-5dy"; */
+"jGw-Db-5dy.text" = "Continue With Facebook";
+
+/* Class = "UITextField"; placeholder = "Secret"; ObjectID = "jUn-tw-BOW"; */
+"jUn-tw-BOW.placeholder" = "Secret";
+
+/* Class = "UILabel"; text = "ShekMuhammad "; ObjectID = "jgn-dH-4i3"; */
+"jgn-dH-4i3.text" = "ShekMuhammad ";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "jgr-vZ-7MH"; */
+"jgr-vZ-7MH.placeholder" = "Enter Your Email";
+
+/* Class = "UILabel"; text = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to "; ObjectID = "kaU-78-tr9"; */
+"kaU-78-tr9.text" = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to ";
+
+/* Class = "UILabel"; text = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).MoveOnPrivacyPolicy()MoveOnPrivacyPolicy()Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."; ObjectID = "kfe-lu-66s"; */
+"kfe-lu-66s.text" = "Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).MoveOnPrivacyPolicy()MoveOnPrivacyPolicy()Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).";
+
+/* Class = "UILabel"; text = "Shekh Muhammad "; ObjectID = "kkN-0u-9Zn"; */
+"kkN-0u-9Zn.text" = "Shekh Muhammad ";
+
+/* Class = "UILabel"; text = "Select Gender"; ObjectID = "kq3-qT-7Dr"; */
+"kq3-qT-7Dr.text" = "Select Gender";
+
+/* Class = "UILabel"; text = "Select Currency"; ObjectID = "kuO-7I-7Be"; */
+"kuO-7I-7Be.text" = "Select Currency";
+
+/* Class = "UITextField"; placeholder = "Search Keyword"; ObjectID = "l4r-3P-c2Z"; */
+"l4r-3P-c2Z.placeholder" = "Search Keyword";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lPv-mD-O1Q"; */
+"lPv-mD-O1Q.text" = "Label";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "lr6-6g-LMk"; */
+"lr6-6g-LMk.text" = "Password";
+
+/* Class = "UITextField"; placeholder = "Store Name"; ObjectID = "mP6-3x-H7M"; */
+"mP6-3x-H7M.placeholder" = "Store Name";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "mjK-4H-KO4"; */
+"mjK-4H-KO4.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Vegetable"; ObjectID = "neu-Bj-3l2"; */
+"neu-Bj-3l2.text" = "Vegetable";
+
+/* Class = "UILabel"; text = "Follow Us"; ObjectID = "nor-kB-9Rb"; */
+"nor-kB-9Rb.text" = "Follow Us";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "o3U-An-r6H"; */
+"o3U-An-r6H.text" = "Already have an account?";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "oJH-Qd-esx"; */
+"oJH-Qd-esx.text" = "Email:";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "ozA-Ow-upC"; */
+"ozA-Ow-upC.placeholder" = "Enter Your Email";
+
+/* Class = "UILabel"; text = "Change"; ObjectID = "pZw-rS-FoG"; */
+"pZw-rS-FoG.text" = "Change";
+
+/* Class = "UILabel"; text = "Sub Categories"; ObjectID = "q0F-4l-c8C"; */
+"q0F-4l-c8C.text" = "Sub Categories";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "q3u-Y4-vG8"; */
+"q3u-Y4-vG8.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "qOg-sT-lNb"; */
+"qOg-sT-lNb.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "134 city street 56 sharjha uae "; ObjectID = "qyw-5c-hnf"; */
+"qyw-5c-hnf.text" = "134 city street 56 sharjha uae ";
+
+/* Class = "UITextView"; text = "Description"; ObjectID = "r5Z-vw-WEj"; */
+"r5Z-vw-WEj.text" = "Description";
+
+/* Class = "UILabel"; text = "Store Name :"; ObjectID = "rkX-Nu-hzz"; */
+"rkX-Nu-hzz.text" = "Store Name :";
+
+/* Class = "UILabel"; text = "Price criteria:"; ObjectID = "rxs-7s-fgA"; */
+"rxs-7s-fgA.text" = "Price criteria:";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "sGE-4t-gpu"; */
+"sGE-4t-gpu.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "snk-l5-WHp"; */
+"snk-l5-WHp.text" = "Categories";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "srT-Fd-chj"; */
+"srT-Fd-chj.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Secret"; ObjectID = "svd-ke-39F"; */
+"svd-ke-39F.text" = "Secret";
+
+/* Class = "UILabel"; text = "What can we help you with? "; ObjectID = "t6Y-CU-JNj"; */
+"t6Y-CU-JNj.text" = "What can we help you with? ";
+
+/* Class = "UILabel"; text = "Address :"; ObjectID = "tBj-An-8v2"; */
+"tBj-An-8v2.text" = "Address :";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "tNR-C1-K34"; */
+"tNR-C1-K34.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "down vote accepted Set autolayout constraints specifying a fixed space and pin them from your UIView top to the UITextView top and from your UIView bottom to the UITextView bottompecifying a fixed space and pin them from your UIView top to the"; ObjectID = "tSY-ld-1AL"; */
+"tSY-ld-1AL.text" = "down vote accepted Set autolayout constraints specifying a fixed space and pin them from your UIView top to the UITextView top and from your UIView bottom to the UITextView bottompecifying a fixed space and pin them from your UIView top to the";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "typ-uK-ZR5"; */
+"typ-uK-ZR5.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "uMT-Py-eMR"; */
+"uMT-Py-eMR.placeholder" = "Confirm New Password";
+
+/* Class = "UITextField"; placeholder = "Confirm Passsword"; ObjectID = "uZc-sS-zk4"; */
+"uZc-sS-zk4.placeholder" = "Confirm Passsword";
+
+/* Class = "UILabel"; text = "Please enter your email address to recover your password"; ObjectID = "wNL-eV-TMB"; */
+"wNL-eV-TMB.text" = "Please enter your email address to recover your password";
+
+/* Class = "UIButton"; normalTitle = "العربية"; ObjectID = "wRq-nk-psP"; */
+"wRq-nk-psP.normalTitle" = "العربية";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "xkL-mz-xs0"; */
+"xkL-mz-xs0.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "4 min ago"; ObjectID = "xv9-Bd-ThC"; */
+"xv9-Bd-ThC.text" = "4 min ago";
+
+/* Class = "UILabel"; text = "0.5km"; ObjectID = "yZO-2z-4TD"; */
+"yZO-2z-4TD.text" = "0.5km";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "yh1-C1-csl"; */
+"yh1-C1-csl.placeholder" = "Last Name";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "yrp-Aa-VWP"; */
+"yrp-Aa-VWP.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "zC8-NK-ei0"; */
+"zC8-NK-ei0.placeholder" = "Confirm Password";
+
+/* Class = "UITextField"; placeholder = "address"; ObjectID = "zbs-Fb-nXf"; */
+"zbs-Fb-nXf.placeholder" = "address";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "zf8-Bk-tO4"; */
+"zf8-Bk-tO4.text" = "Categories";

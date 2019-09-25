@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Search Keyword"; ObjectID = "I76-Sd-KZO"; */
+"I76-Sd-KZO.text" = "Search Keyword";
+
+/* Class = "UITextField"; placeholder = "Search Keyword"; ObjectID = "RVV-po-uPL"; */
+"RVV-po-uPL.placeholder" = "Search Keyword";
+
+/* Class = "UITextField"; placeholder = "Search Keyword"; ObjectID = "Rri-W9-MO6"; */
+"Rri-W9-MO6.placeholder" = "Search Keyword";
+
+/* Class = "UITextField"; placeholder = "Search Keyword"; ObjectID = "gl9-Bj-cvy"; */
+"gl9-Bj-cvy.placeholder" = "Search Keyword";

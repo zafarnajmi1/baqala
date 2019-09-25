@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Per Item"; ObjectID = "8ho-dI-1Pa"; */
+"8ho-dI-1Pa.normalTitle" = "Per Item";
+
+/* Class = "UILabel"; text = "AED 2000"; ObjectID = "L1T-2F-IQ7"; */
+"L1T-2F-IQ7.text" = "AED 2000";
+
+/* Class = "UITextField"; placeholder = "Enter your keyword"; ObjectID = "LIy-Dg-Njf"; */
+"LIy-Dg-Njf.placeholder" = "Enter your keyword";
+
+/* Class = "UILabel"; text = "Sub Cateogory"; ObjectID = "NHu-4J-QSJ"; */
+"NHu-4J-QSJ.text" = "Sub Cateogory";
+
+/* Class = "UITextField"; placeholder = "Street 1, Al Ain, UAE"; ObjectID = "PcJ-Jj-lLw"; */
+"PcJ-Jj-lLw.placeholder" = "Street 1, Al Ain, UAE";
+
+/* Class = "UILabel"; text = "Price Criteria:"; ObjectID = "Qjx-5c-aHp"; */
+"Qjx-5c-aHp.text" = "Price Criteria:";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "SDS-VL-zeN"; */
+"SDS-VL-zeN.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Price Range"; ObjectID = "Txn-LU-SdY"; */
+"Txn-LU-SdY.text" = "Price Range";
+
+/* Class = "UIButton"; normalTitle = "Per KG"; ObjectID = "ZQP-1J-lva"; */
+"ZQP-1J-lva.normalTitle" = "Per KG";
+
+/* Class = "UILabel"; text = "Near to Far"; ObjectID = "ddJ-Vz-JsQ"; */
+"ddJ-Vz-JsQ.text" = "Near to Far";
+
+/* Class = "UILabel"; text = "Cateogory"; ObjectID = "qEq-9y-Bwq"; */
+"qEq-9y-Bwq.text" = "Cateogory";
+
+/* Class = "UILabel"; text = "Near By:"; ObjectID = "sLx-JZ-fPc"; */
+"sLx-JZ-fPc.text" = "Near By:";

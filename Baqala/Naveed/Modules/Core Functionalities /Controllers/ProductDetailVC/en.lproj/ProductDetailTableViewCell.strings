@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Vegitables "; ObjectID = "3Xe-Uo-PdX"; */
+"3Xe-Uo-PdX.text" = "Vegitables ";
+
+/* Class = "UILabel"; text = "Apple Juice 250ml"; ObjectID = "3l5-I1-b8u"; */
+"3l5-I1-b8u.text" = "Apple Juice 250ml";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "5wV-t4-2s5"; */
+"5wV-t4-2s5.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "Fgd-4m-ABJ"; */
+"Fgd-4m-ABJ.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Al ain, UAE, "; ObjectID = "GtS-Ow-aOV"; */
+"GtS-Ow-aOV.text" = "Al ain, UAE, ";
+
+/* Class = "UILabel"; text = "About Product"; ObjectID = "HiJ-p3-2VN"; */
+"HiJ-p3-2VN.text" = "About Product";
+
+/* Class = "UILabel"; text = "0.05km"; ObjectID = "ZDb-CR-Xdi"; */
+"ZDb-CR-Xdi.text" = "0.05km";
+
+/* Class = "UILabel"; text = "Vegitables : "; ObjectID = "cSX-FT-vKa"; */
+"cSX-FT-vKa.text" = "Vegitables : ";
+
+/* Class = "UILabel"; text = "Organic Food"; ObjectID = "ckN-ay-9Yb"; */
+"ckN-ay-9Yb.text" = "Organic Food";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "fv2-5T-wPg"; */
+"fv2-5T-wPg.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Add To Cart"; ObjectID = "gFy-qY-JgQ"; */
+"gFy-qY-JgQ.normalTitle" = "Add To Cart";
+
+/* Class = "UILabel"; text = "AED 2.0"; ObjectID = "khd-Vp-dwX"; */
+"khd-Vp-dwX.text" = "AED 2.0";
+
+/* Class = "UILabel"; text = "Offered By:"; ObjectID = "od4-xb-I4w"; */
+"od4-xb-I4w.text" = "Offered By:";
+
+/* Class = "UILabel"; text = "In Stock: 01"; ObjectID = "qZq-by-WdM"; */
+"qZq-by-WdM.text" = "In Stock: 01";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."; ObjectID = "rhh-nC-Flb"; */
+"rhh-nC-Flb.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";

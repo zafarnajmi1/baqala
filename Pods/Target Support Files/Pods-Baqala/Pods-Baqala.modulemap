@@ -1,0 +1,6 @@
+framework module Pods_Baqala {
+  umbrella header "Pods-Baqala-umbrella.h"
+
+  export *
+  module * { export * }
+}

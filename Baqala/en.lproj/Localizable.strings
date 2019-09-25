@@ -1,0 +1,300 @@
+/* 
+  Localizable.strings
+  Baqala
+
+  Created by apple on 2/12/19.
+  Copyright © 2019 My Technology. All rights reserved.
+*/
+"Select Langauge" = "Select Langauge";
+"Save this language" = "Save this language";
+"Home" = "Home";
+"Baqala" = "Baqala";
+
+
+// screen 2 - Continue as guest or social login screen
+"Continue as Guest or Social Login" = "Continue as Guest or Social Login";
+"Continue With Facebook" = "Continue With Facebook";
+"Continue Login With Google" = "Continue Login With Google";
+"Continue login With Instagram" = "Continue login With Instagram";
+"Continue As Guest" = "Continue As Guest";
+//Common
+"Buyer" = "Buyer";
+"Seller" = "Seller";
+
+"Login" = "Login";
+"Register" = "Register";
+
+"OR" = "OR";
+
+
+//Registeration Form
+"Already have an account?" = "Already have an account?";
+"Don't have an account?" = "Don't have an account?";
+"Select Gender" = "Select Gender";
+"Forgot Password?" = "Forgot Password?";
+"Forgot Password" = "Forgot Password";
+
+//Forms
+"First Name" = "First Name";
+"Last Name=" = "Last Name";
+"Enter Your Email" = "Enter Your Email";
+"Phone Number" = "Phone Number";
+"Address" = "Address";
+"Password" = "Password";
+"Confirm Password" = "Confirm Password";
+"Female" = "Female";
+"Male" = "Male";
+"Store Name" = "Store Name";
+
+
+//Form Validation error msgs
+"New account request" = "New account request";
+"Buyer Form" = "Buyer Form";
+"Seller Form" = "Seller Form";
+"Please enter valid Store name" = "Please enter valid Store name";
+"Please enter valid first name" = "Please enter valid first name";
+"Please enter valid last name" = "Please enter valid last name";
+"Please enter valid email" = "Please enter valid email";
+"Please enter valid phone number" = "Please enter valid phone number";
+"Please enter valid address" = "Please enter valid address";
+"Please enter valid password" = "Please enter valid password";
+"Please enter valid confirm password" = "Please enter valid confirm password";
+"Confirm Password does not match, please add same password to confirm" = "Confirm Password does not match, please add same password to confirm";
+
+//Email verification screen
+
+"A verification code is sent to your email, please check your email and enter the verification code  below." = "A verification code is sent to your email, please check your email and enter the verification code  below.";
+"Enter Verification Code" = "Enter Verification Code";
+"Resend" = "Resend";
+"Submit" = "Submit";
+
+//Forgot Password screen
+"Please enter your email address to recover your password" = "Please enter your email address to recover your password";
+"Email Address" = "Email Address";
+"Recover" = "Recover";
+
+// Reset Password screen
+"Cancel" = "Cancel";
+"Update" = "Update";
+"Reset Password" = "Reset Password";
+"Enter  your new password and then confirm it to change your account password" = "Enter  your new password and then confirm it to change your account password";
+"New Password" = "New Password";
+"Code" = "Code";
+"Please Enter Code" = "Please Enter Code";
+
+//Home screen
+"Search your Product" = "Search your Product";
+"Categories" = "Categories";
+"Subcategoires" = "Subcategories";
+"Store" = "Store";
+"Stores" = "Stores";
+"Menu" = "Menu";
+"Your Location" = "Your Location";
+//buyer Profile
+"Profile" = "Profile";
+"Edit Profile" = "Edit Profile";
+"Name:" = "Name:";
+"Email:" = "Email:";
+"Phone no:" = "Phone no:";
+"Address:" = "Address:";
+"Gender:" = "Gender:";
+"Gender" = "Gender";
+"Save" = "Save";
+
+//Setting
+"Setting" = "Setting";
+"Change Password" = "Change Password";
+"Language" = "Language";
+"Change Language" = "Change Language";
+"Currency" = "Currency";
+"Select Currency" = "Select Currency";
+"Change" = "Change";
+
+//Default titles
+"Heads-up!" = "Heads-up!";
+"Success" = "Success";
+
+
+//store Profile
+"Store Profile" = "Store Profile";
+"Edit Store Profile" = "Edit Store Profile";
+"Store Name (English):" = "Store Name (English):";
+"Store Name (Arabic):" = "Store Name (Arabic):";
+"Phone No:" = "Phone No:";
+"Description (English):" = "Description (English):";
+"Description (Arabic):" = "Description (Arabic):";
+//store edit profile
+"Store Name En" = "Store Name En";
+"Store Name Ar" =  "Store Name Ar";
+"Description (English)" = "Description (English)";
+"Description (Arabic)" = "Description (Arabic)";
+"Please enter valid Store name in English" = "Please enter valid Store name in English";
+"Please enter valid Store Name in Arabic" =  "Please enter valid Store Name in Arabic";
+"Please enter valid Description In English" = "Please enter valid Description In English";
+"Please enter valid Description In Arabic" = "Please enter valid Description In Arabic";
+
+
+//change password
+"Change Password" = "Change Password";
+"Old Password" = "Old Password";
+"Set New Password" = "Set New Password";
+"Current Password" = "Current Password";
+"New Password" = "New Password";
+"Confirm New Password" = "Confirm New Password";
+"Please enter current password" = "Please enter current password";
+"Please enter valid new password" = "Please enter valid new password";
+"Please enter valid confirm new password" = "Please enter valid confirm new password";
+"Confirm new password does not match, please add same new password to confirm" = "Confirm new password does not match, please add same new password to confirm";
+
+
+// Payment Profile
+"Payment Profile" = "Payment Profile";
+"Save your payment profile" = "Save your payment profile";
+"Client Id" = "Client Id";
+"Secret" = "Secret";
+"Save" = "Save";
+"Enter Id" = "Enter Id";
+"Please enter valid PayPal Client ID " = "Please enter valid PayPal Client ID ";
+"Please enter valid PayPal Screte ID " = "Please enter valid PayPal Screte ID ";
+
+//Categories
+"Search Keyword" = "Search Keyword";
+"Reviews" = "Reviews";
+
+//notifications
+"Notifications" = "Notifications";
+" Clear All " = " Clear All ";
+//time formate
+" days ago" = " days ago";
+" hours ago" = " hours ago";
+" minutes ago" = " minutes ago";
+" second ago" = " second ago";
+"just now" = "just now";
+
+//Info pages
+"Terms & Conditions" = "Terms & Conditions";
+"About Us" = "About Us";
+"Privacy Policy" = "Privacy Policy";
+"Error" = "Error";
+"Conversations" = "Conversations";
+"Conversation" = "Conversation";
+"My Orders" = "My Orders";
+"Contact Us" = "Contact Us";
+"Logout" = "Logout";
+"Orders" = "Orders";
+"Rating and Reviews" = "Rating and Reviews";
+"Products" = "Products";
+
+//Contact Us
+"What can we help you with?" = "What can we help you with?";
+"App Feed Back" = "App Feed Back";
+"Complaint" = "Complaint";
+"Your Comments" = "Your Comments";
+"Send" = "Send";
+"Please select subject" = "Please select subject";
+"Please enter your comments" =  "Please enter your comments";
+"Enter text here" = "Enter text here";
+
+//Product List
+"Product List" = "Product List";
+"Sold by:" = "Sold by:";
+"In Stock:" = "In Stock:";
+"Stock Limit Exceed" = "Stock Limit Exceed";
+"Do you want to add this Item in cart?" = "Do you want to add this Item in cart?";
+"Cart Updated" = "Cart Updated";
+"Please Confirm" = "Please Confirm";
+"YES" = "YES";
+"Yes" = "Yes";
+"NO" = "NO";
+"No" = "No";
+//Product Detail
+"About Product" = "About Product";
+"Product Detail" = "Product Detail";
+"Offered By:" =  "Offered By:";
+"Add To Cart" = "Add To Cart";
+
+//MyCart
+"My Cart" = "My Cart";
+"Sub Total: (Exclusive VAT)" = "Sub Total: (Exclusive VAT)";
+"VAT Amount" = "VAT Amount";
+"Total (inclusive of VAT)" = "Total (inclusive of VAT)";
+"Continue to Checkout"= "Continue to Checkout";
+"Total:" = "Total:";
+"Price" = "Price";
+"Do you want to remove this Product from Cart?" = "Do you want to remove this Product from Cart?";
+
+//CheckOut
+"Checkout" = "Checkout";
+"Select Payment Option" = "Select Payment Option";
+"Place Order" = "Place Order";
+"Ship To Different Address?" = "Ship To Different Address?";
+"Billing Address" = "Billing Address";
+"Shipping Address" = "Shipping Address";
+"Street Address" = "Street Address";
+"Postcode / Zip" = "Postcode / Zip";
+"Continue With Paypal" = "Continue With Paypal";
+"Cash On Delivery" = "Cash On Delivery";
+"Please enter valid PostCode/Zip" = "Please enter valid PostCode/Zip";
+"Please write order notes" = "Please write order notes";
+"Order Notes" = "Order Notes";
+
+//Store Detail
+"Store Description" = "Store Description";
+"Store Products" = "Store Products";
+"Description" = "Description";
+"Store Reviews" = "Store Reviews";
+"Rating & Reviews" = "Rating & Reviews";
+"Search Product" = "Search Product";
+
+//Advance Search
+"Price Criteria:" = "Price Criteria:";
+"Advance Search" = "Advance Search";
+"Near By:" = "Near By:";
+"Near To Far" = "Near To Far";
+"Far to Near" = "Far To Near";
+"Per KG" = "Per KG";
+"Per Item" = "Per Item";
+"Search" = "Search";
+"Price Range" = "Price Range";
+
+//Store detail
+"Submit Your Review" = "Submit Your Review";
+"Write Your Review" = "Write your Review";
+"Submit Review" = "Submit Review";
+"Against:" = "Against:";
+"Store Reviews" = "Store Reviews";
+"Record Not Found" = "Record Not Found";
+"Record not found" = "Record not found";
+"No Data" = "No Data";
+"No Reviews" = "No Reviews";
+"Reviewed Against:" = "Reviewed Against:";
+
+//myOrders
+"Confirmed" = "Confirmed";
+"Shipped" = "Shipped";
+"Completed" = "Completed";
+"Status:" = "Status:";
+"Total Amount:" = "Total Amount:";
+"Total Products:" = "Total Products:";
+"Order" = "Order";
+"Date:" = "Date:";
+"My Order Detail" = "My Order Detail";
+"Received" = "Received";
+"Do you want to confirm this request?" = "Do you want to confirm this request?";
+"Quantity:" = "Quantity:";
+"Store Name:" = "Store Name:";
+"Email" = "Email";
+"Phone #" = "Phone #";
+"Orders Detail" = "Orders Detail";
+"Do you want to ship?" = "Do you want to ship?";
+"Ship" = "Ship";
+"Write message..." = "Write message...";
+"Do you want to logout?" = "Do you want to logout?";
+"Select Distance" = "Select Distance";
+"Select Location" = "Select Location";
+
+//soical
+
+"Continue with Facebook" = "Continue with Facebook";
+"Continue with Gmail" = "Continue with Gmail";
+"Continue with Instagram" = "Continue with Instagram";

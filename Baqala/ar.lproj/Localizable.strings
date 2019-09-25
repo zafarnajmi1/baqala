@@ -1,0 +1,307 @@
+/* 
+  Localizable.strings
+  Baqala
+
+  Created by apple on 2/12/19.
+  Copyright © 2019 My Technology. All rights reserved.
+*/
+
+//screen 1 -select language screen
+"Select Langauge" = "اختار اللغة";
+"Save this language" = "احفظ هذه اللغة";
+"Home" = "الصفحة الرئيسية";
+"Baqala" = "بقالة";
+
+// screen 2 - Continue as guest or social login screen
+
+"Continue as Guest or Social Login" = "متابعة كضيف أو تسجيل الدخول الاجتماعي";
+"Continue With Facebook" = "تواصل مع الفيسبوك";
+"Continue Login With Google" = "متابعة الدخول مع جوجل";
+"Continue login With Instagram" = "متابعة تسجيل الدخول مع Instagram";
+"Continue As Guest" = "تواصل كضيف";
+//Common
+"Buyer" = "مشتر";
+"Seller" = "تاجر";
+
+
+
+"Login" = "تسجيل الدخول";
+"Register" = "تسجيل";
+"OR" = "أو";
+
+
+//Registeration Form
+"Already have an account?" = "هل لديك حساب؟";
+"Select Gender" = "حدد نوع الجنس";
+"Don't have an account?" = "ليس لديك حساب؟";
+"Forgot Password?" = "هل نسيت كلمة المرور؟";
+"Forgot Password" = "هل نسيت كلمة المرور";
+
+//Forms
+"First Name" = "الاسم الاول";
+"Last Name" = "الكنية";
+"Enter Your Email" = "أدخل بريدك الالكتروني";
+"Phone Number" = "رقم الهاتف";
+"Address" = "عنوان";
+"Password" = "كلمه السر";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Female" = "إناثا";
+"Male" = "الذكر";
+"Store Name" = "اسم المتجر";
+
+
+
+//Form Validation error msgs
+"New account request" = "طلب حساب جديد";
+"Buyer Form" = "نموذج المشتري";
+"Seller Form" = "نموذج البائع";
+
+"Please enter valid Store name" = "يرجى إدخال اسم المتجر الصحيح";
+"Please enter valid first name" = "الرجاء إدخال الاسم الأول الصحيح";
+"Please enter valid last name" = "يرجى إدخال اسم العائلة الصحيح";
+"Please enter valid email" = "الرجاء إدخال بريد إلكتروني صحيح";
+"Please enter valid phone number" = "الرجاء إدخال رقم هاتف صحيح";
+"Please enter valid address" = "يرجى إدخال عنوان صالح";
+"Please enter valid password" = "يرجى إدخال كلمة مرور صالحة";
+"Please enter valid confirm password" = "يرجى إدخال كلمة مرور تأكيد صالحة";
+"Confirm Password does not match, please add same password to confirm" = "تأكيد كلمة المرور غير متطابق ، يرجى إضافة كلمة المرور نفسها للتأكيد";
+
+//Email verification screen
+
+"A verification code is sent to your email, please check your email and enter the verification code  below." = "يتم إرسال رمز التحقق إلى بريدك الإلكتروني ، يرجى التحقق من بريدك الإلكتروني وإدخال رمز التحقق أدناه.";
+"Enter Verification Code" = "أدخل رمز التحقق";
+"Resend" = "إعادة إرسال";
+"Submit" = "خضع";
+
+//Forgot Password screen
+"Please enter your email address to recover your password" = "يرجى إدخال عنوان بريدك الإلكتروني لاستعادة كلمة المرور الخاصة بك";
+"Email Address" = "عنوان بريد الكتروني";
+"Recover" = "استعادة";
+
+// Reset Password screen
+"Cancel" = "إلغاء";
+"Update" = "تحديث";
+"Reset Password" = "إعادة ضبط كلمة المرور";
+"Enter  your new password and then confirm it to change your account password" = "أدخل كلمة المرور الجديدة الخاصة بك ثم قم بتأكيدها لتغيير كلمة مرور حسابك";
+"New Password" = "كلمة السر الجديدة";
+"Code" = "الشفرة";
+"Please Enter Code" = "يرجى إدخال الرمز";
+
+//Home screen
+"Search your Product" = "ابحث عن منتجك";
+"Categories" = "الاقسام";
+"Subcategories" = "الفئات الفرعية";
+"Store" = "متجر";
+"Stores" = "مخازن";
+"Menu" = "قائمة طعام";
+"Your Location" = "موقعك";
+
+
+//buyer Profile
+"Profile" = "الملف الشخصي";
+"Edit Profile" = "تعديل الملف الشخصي";
+"Name:" = "اسم:";
+"Email:" = "البريد الإلكتروني:";
+"Phone no:" = "رقم الهاتف:";
+"Address:" = "عنوان:";
+"Gender:" = "جنس:";
+"Gender" = "جنس";
+"Save" = "حفظ";
+
+//Setting
+
+"Setting" = "ضبط";
+"Change Password" = "غير كلمة السر";
+"Language" = "لغة";
+"Change Language" = "غير اللغة";
+"Currency" = "دقة";
+"Select Currency" = "اختر العملة";
+"Change" = "يتغيرون";
+
+//Default titles
+"Heads-up!" = "انتباه!";
+"Success" = "نجاح";
+
+//store Profile
+"Store Profile" = "تخزين الملف";
+"Edit Store Profile" = "تعديل الملف الشخصي للمتجر";
+"Store Name (English):" = "اسم المتجر (الإنجليزية):";
+"Store Name (Arabic):" = "اسم المتجر (العربية):";
+"Phone No:" = "رقم الهاتف:";
+"Description (English):" = "الوصف (الإنجليزية):";
+"Description (Arabic):" = "وصف (العربية):";
+
+//store edit profile
+"Store Name En" = "اسم المتجر En";
+"Store Name Ar" =  "اسم المتجر Ar";
+"Description (English)" = "الوصف (الإنجليزية)";
+"Description (Arabic)" = "الوصف (العربية)";
+"Please enter valid Store name in English" = "الوصف (عربي) الرجاء إدخال اسم المتجر الصحيح باللغة الإنجليزية";
+"Please enter valid Store Name in Arabic" =  "يرجى إدخال إسم المتجر الصحيح باللغة العربية";
+"Please enter valid Description In English" = "يرجى إدخال وصف صحيح باللغة الإنجليزية";
+"Please enter valid Description In Arabic" = "يرجى إدخال وصف صحيح باللغة العربية";
+
+//change password
+"Change Password" = "غير كلمة السر";
+"Old Password" = "كلمة المرور القديمة";
+"Set New Password" = "تعيين كلمة مرور جديدة";
+"Current Password" = "كلمة المرور الحالي";
+"New Password" = "كلمة السر الجديدة";
+"Confirm New Password" = "تأكيد كلمة المرور الجديدة";
+"Please enter current password" = "يرجى إدخال كلمة المرور الحالية";
+"Please enter valid new password" = "يرجى إدخال كلمة مرور جديدة صالحة";
+"Please enter valid confirm new password" = "الرجاء إدخال كلمة مرور تأكيد صالحة صالحة";
+"Confirm new password does not match, please add same new password to confirm" = "تأكيد عدم تطابق كلمة المرور الجديدة ، يرجى إضافة كلمة المرور الجديدة نفسها للتأكيد";
+
+// Payment Profile
+"Payment Profile" = "الملف الشخصي الدفع";
+"Save your payment profile" = "احفظ ملفك الشخصي للدفع";
+"Client Id" = "معرف العميل";
+"Secret" = "سر";
+"SAVE" = "حفظ";
+"Enter Id" = "أدخل معرف";
+"Please enter valid PayPal Client ID " = "الرجاء إدخال معرف عميل PayPal صالح";
+"Please enter valid PayPal Screte ID " = "الرجاء إدخال معرف PayPal Screte صالح";
+
+//Categories
+"Search Keyword" = "كلمة البحث";
+"Reviews" = "استعراض";
+
+//notifications
+"Notifications" = "إخطارات";
+" Clear All " = " امسح الكل ";
+//time formate
+" days ago" = " أيام مضت";
+" hours ago" = " منذ ساعات";
+" minutes ago" = " دقائق مضت";
+" second ago" = " قبل ثانية";
+"just now" = "في هذة اللحظة";
+
+"Terms & Conditions" = "البنود و الظروف";
+"About Us" = "معلومات عنا";
+"Privacy Policy" = "سياسة خاصة";
+"Error" = "خطأ";
+
+"Conversations" = "المحادثات";
+"Conversation" = "محادثة";
+"My Orders" = "طلباتي";
+"Contact Us" = "اتصل بنا";
+"Logout" = "الخروج";
+"Orders" = "أوامر";
+"Rating and Reviews" = "التقييم والمراجعات";
+"Products" = "منتجات";
+
+//Contact Us
+"What can we help you with?" = "بمادا يمكننا ان نساعدك؟";
+"App Feed Back" = "رجوع للخلف";
+"Complaint" = "شكوى";
+"Your Comments" = "تعليقاتك";
+"Send" = "إرسال";
+"Please select subject" = "يرجى اختيار الموضوع";
+"Please enter your comments" =  "يرجى إدخال تعليقاتك";
+"Enter text here" = "أدخل النص هنا";
+
+//Product List
+"Product List" = "قائمة المنتجات";
+"Sold by:" = "تم بيعها من قبل:";
+"In Stock:" = "في المخزن:";
+"Stock Limit Exceed" = "حدود المخزون تتجاوز";
+"Do you want to add this Item in cart?" = "هل تريد إضافة هذا العنصر في سلة التسوق؟";
+"Cart Updated" = "عربة تحديثها";
+"Please Confirm" = "يرجى تأكيد";
+//Confirmation alert
+"YES" = "نعم فعلا";
+"Yes" = "نعم فعلا";
+"NO" = "لا";
+"No" = "لا";
+//Product Detail
+"About Product" = "حول المنتج";
+"Product Detail" = "تفاصيل المنتج";
+"Offered By:" =  "عرضت من قبل:";
+"Add To Cart" = "أضف إلى السلة";
+
+//MyCart
+"My Cart" = "عربتي";
+"Sub Total: (Exclusive VAT)" = "المجموع الفرعي: (ضريبة القيمة المضافة الحصرية)";
+"VAT Amount" = "قيمة الضريبة";
+"Total (inclusive of VAT)" = "المجموع (شامل ضريبة القيمة المضافة)";
+"Continue to Checkout"= "الاستمرار في الخروج";
+"Total" = "مجموع";
+"Total:" = "مجموع:";
+"Price" = "Price";
+"Do you want to remove this Product from Cart?" = "هل تريد إزالة هذا المنتج من السلة؟";
+
+//CheckOut
+"Checkout" = "الدفع";
+"Select Payment Option" = "حدد خيار الدفع";
+"Place Order" = "مكان الامر";
+"Ship To Different Address?" = "السفينة الى عنوان مختلف؟";
+"Billing Address" = "عنوان وصول الفواتير";
+"Shipping Address" = "عنوان الشحن";
+"Street Address" = "عنوان الشارع";
+"Postcode / Zip" = "الرمز البريدي";
+"Continue With Paypal" = " تواصل مع Paypal ";
+"Cash On Delivery" = " الدفع عن الاستلام ";
+"Please enter valid PostCode/Zip" = "الرجاء إدخال رمز بريدي صالح";
+"Please write order notes" = "يرجى كتابة ملاحظات النظام";
+"Order Notes" = "ترتيب ملاحظات";
+
+//Store Detail
+"Store Description" = "وصف المتجر";
+"Store Products" = "منتجات المتجر";
+"Description" = "تفصيل";
+"Store Reviews" = "استعراض المتجر";
+"Rating & Reviews" = "التقييم والمراجعات";
+"Search Product" = "البحث عن المنتج";
+//Advance Search
+"Price Criteria:" = "معايير السعر:";
+"Advance Search" = "البحث المتقدم";
+"Near By:" = "قريب:";
+"Near To Far" = "قريب من بعيد";
+"Far to Near" = "بعيد إلى قريب";
+"Per KG" = "لكل كجم";
+"Per Item" = "لكل بند";
+"Search" = "بحث";
+"Price Range" = "نطاق السعر";
+
+//Store detail
+"Submit Your Review" = "يقدم استعراضك";
+"Write Your Review" = "اكتب مراجعتك";
+"Submit Review" = "إرسال مراجعة";
+"Against:" = "تجاه:";
+"Store Reviews" = "استعراض المتجر";
+"Record Not Found" = "لم يتم العثور على السجل";
+"Record not found" = "لم يتم العثور على السجل";
+"No Data" = "لايوجد بيانات";
+"No Reviews" = "لم يتم تقديم تعليقات";
+"Reviewed Against:" = "استعرض ضد:";
+
+//My Order
+"Confirmed" = "تم تأكيد";
+"Shipped" = "شحنها";
+"Completed" = "منجز";
+"Status:" = "الحالة:";
+"Total Amount:" = "المبلغ الإجمالي:";
+"Total Products:" = "مجموع المنتجات:";
+"Order" = "طلب";
+"Date:" = "تاريخ:";
+"My Order Detail" = "طلبي التفاصيل";
+"Received" = "تم الاستلام";
+"Do you want to confirm this request?" = "هل تريد تأكيد هذا الطلب؟";
+"Quantity:" = "مقدار:";
+"Store Name:" = "اسم المتجر:";
+"Email" = "البريد الإلكتروني";
+"Phone #" = "هاتف #";
+"Orders Detail" = "تفاصيل الطلبات";
+"Do you want to ship?" = "هل تريد شحنه؟";
+"Ship" = "سفينة";
+"Write message..." = "اكتب رسالة...";
+"Do you want to logout?" = "هل ترغب بالخروج؟";
+"Select Distance" = "اختر المسافة";
+"Select Location" = "اختر موقعا";
+
+//soical
+
+"Continue with Facebook" = "تواصل مع Facebook";
+"Continue with Gmail" = "تابع مع Gmail";
+"Continue with Instagram" = "تواصل مع Instagram";

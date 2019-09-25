@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "0.05km"; ObjectID = "0Cz-0H-DAT"; */
+"0Cz-0H-DAT.text" = "0.05km";
+
+/* Class = "UILabel"; text = "In Stock: 0"; ObjectID = "29W-33-DWC"; */
+"29W-33-DWC.text" = "In Stock: 0";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "6aj-H9-3Fa"; */
+"6aj-H9-3Fa.text" = "1";
+
+/* Class = "UILabel"; text = "Apple Juice 250ml"; ObjectID = "AOc-aI-HRy"; */
+"AOc-aI-HRy.text" = "Apple Juice 250ml";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "BiQ-5O-UNm"; */
+"BiQ-5O-UNm.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "AED 2.0"; ObjectID = "ELR-98-DOo"; */
+"ELR-98-DOo.text" = "AED 2.0";
+
+/* Class = "UILabel"; text = "Organic food"; ObjectID = "Er4-5u-dMf"; */
+"Er4-5u-dMf.text" = "Organic food";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "QKP-2T-lS5"; */
+"QKP-2T-lS5.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Seef Mall Al ain, UAE, "; ObjectID = "b8g-s4-oUg"; */
+"b8g-s4-oUg.text" = "Seef Mall Al ain, UAE, ";
+
+/* Class = "UILabel"; text = "Sold by:"; ObjectID = "cI0-1u-bfr"; */
+"cI0-1u-bfr.text" = "Sold by:";

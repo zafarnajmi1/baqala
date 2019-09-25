@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Against : "; ObjectID = "DuI-YZ-Atb"; */
+"DuI-YZ-Atb.text" = "Against : ";
+
+/* Class = "UILabel"; text = "Submit Your Review"; ObjectID = "VTM-YY-FKD"; */
+"VTM-YY-FKD.text" = "Submit Your Review";
+
+/* Class = "UILabel"; text = "Write Your Review"; ObjectID = "gqn-US-9xH"; */
+"gqn-US-9xH.text" = "Write Your Review";
+
+/* Class = "UIButton"; normalTitle = "Submit Review"; ObjectID = "oym-gn-sPu"; */
+"oym-gn-sPu.normalTitle" = "Submit Review";
+
+/* Class = "UILabel"; text = "Select Product"; ObjectID = "zqT-hq-ccn"; */
+"zqT-hq-ccn.text" = "Select Product";
